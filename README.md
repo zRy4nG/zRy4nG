@@ -1,13 +1,13 @@
 # 👋 Ryan Reis
 
-**`Sempre em busca por novos conhecimentos`**
+**`In search of a dream`**
 
-Olá! Me chamo **Ryan Reis**, tenho 17 anos e sou natural do **Ceará**.  
-Atualmente, curso o **3º ano do Ensino Médio em Informática** no **IFCE – Campus Aracati**.  
+👋 Hello! My name is **Ryan Reis**, I'm 17 years old, and I'm from **Ceará, Brazil**.  
+I am currently in my **third year of high school in Information Technology** at **IFCE – Aracati Campus**.  
 
-Minha jornada na tecnologia começou aos 14 anos, desenvolvendo **sistemas para MTA:SA** com **Lua**.  
-Com o tempo, expandi meus conhecimentos e hoje atuo como **desenvolvedor full-stack**,  
-trabalhando tanto com **desenvolvimento web** quanto como **programador para servidores no MTA**.  
+My journey in technology began at the age of 14, developing **systems for MTA:SA** using **Lua**.  
+Over time, I expanded my knowledge, and today I work as a **full-stack developer**,  
+focusing on both **web development** and **server programming for MTA**. 
 
 ---
 
