@@ -1,16 +1,13 @@
-# 💻 Ryan Reis
+# 👋 Ryan Reis
 
-**`Desenvolvedor FullStack`**
+**`Sempre em busca por novos conhecimentos`**
 
-👋 Olá! Me chamo **Ryan Reis**, tenho 17 anos e sou natural do **Ceará**.  
+Olá! Me chamo **Ryan Reis**, tenho 17 anos e sou natural do **Ceará**.  
 Atualmente, curso o **3º ano do Ensino Médio em Informática** no **IFCE – Campus Aracati**.  
 
 Minha jornada na tecnologia começou aos 14 anos, desenvolvendo **sistemas para MTA:SA** com **Lua**.  
 Com o tempo, expandi meus conhecimentos e hoje atuo como **desenvolvedor full-stack**,  
 trabalhando tanto com **desenvolvimento web** quanto como **programador para servidores no MTA**.  
-
-Sou apaixonado por tecnologia e estou sempre em busca de novos desafios  
-para aprimorar minhas habilidades e criar **soluções inovadoras**. 🚀
 
 ---
 
