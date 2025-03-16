@@ -11,7 +11,7 @@ focusing on both **web development** and **server programming for MTA**.
 
 ---
 
-### 🚀 Linguagens e Tecnologias  
+### Linguagens e Tecnologias  
 
 <img align="left" alt="Lua" title="Lua" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
