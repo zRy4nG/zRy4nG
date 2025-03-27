@@ -7,7 +7,7 @@ I am currently in my **third year of high school in Information Technology** at 
 
 My journey in technology began at the age of 14, developing **systems for MTA:SA** using **Lua**.  
 Over time, I expanded my knowledge, and today I work as a **full-stack developer**,  
-focusing on both **web development** and **server programming for MTA**. 
+focusing on both **web development** and **server programming for MTA**.
 
 ---
 
