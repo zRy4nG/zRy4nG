@@ -2,7 +2,7 @@
 
 **`In search of a dream`**
 
-👋 Hello! My name is **Ryan Reis**, I'm 17 years old, and I'm from **Ceará, Brazil**.  
+👋 Hello! My name is **Ryan Reis**, I'm 18 years old, and I'm from **Ceará, Brazil**.  
 I am currently in my **third year of high school in Information Technology** at **IFCE – Aracati Campus**.  
 
 My journey in technology began at the age of 14, developing **systems for MTA:SA** using **Lua**.  
