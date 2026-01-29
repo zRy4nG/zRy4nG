@@ -1,7 +1,7 @@
 # Ryan Reis
 
 👋 Olá! Meu nome é **Ryan Reis**, tenho **18 anos** e sou de **Icapuí – Ceará, Brasil**.  
-Concluí o **ensino médio técnico em Informática** pelo **IFCE – Campus Aracati** e atualmente estou cursando **Bacharelado em Ciência da Computação** na **UFERSA**.
+Concluí o **ensino médio técnico em Informática** pelo **IFCE – Campus Aracati** e atualmente estou cursando **Bacharelado em Ciência da Computação**.
 
 Minha jornada na tecnologia começou aos **14 anos**, desenvolvendo **sistemas para MTA:SA** utilizando **Lua**.  
 Com o tempo, ampliei meus conhecimentos e hoje atuo como **desenvolvedor full-stack**,  
