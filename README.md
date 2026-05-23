@@ -1,6 +1,6 @@
 # Ryan Reis
 
-👋 Olá! Meu nome é **Ryan Reis**, tenho **18 anos** sou apaixonado por tecnologia e desenvolvimento web.
+👋 Olá! Meu nome é **Ryan Reis**, tenho **18 anos** sou fascinado por tecnologia e desenvolvimento web.
 
 Minha jornada na tecnologia começou aos **14 anos**, desenvolvendo **sistemas para MTA:SA** utilizando **Lua**.  
 Com o tempo, ampliei meus conhecimentos e hoje atuo como **desenvolvedor full-stack**,  
